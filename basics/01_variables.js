@@ -2,6 +2,7 @@ const accountId = 12345
 let accountemail = "bikash@meta.com"
 var accountpass = "12345"
 accountcity = "Pokhara"
+let left_unsigned
 
 
 // accountId = 2 
@@ -12,5 +13,5 @@ console.log(accountId);
 accountemail = "harry@gmail.com"
 accountpass = "qwerty"
 accountcity = "Kathmandu"
-console.table([accountemail , accountpass , accountcity]);
+console.table([accountemail , accountpass , accountcity , left_unsigned]);
 
