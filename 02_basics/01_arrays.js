@@ -6,7 +6,7 @@ console.log(myArr.length , "\n\n")
 const myArr2 = new Array(2,3,4)
 console.log(myArr2[0] , "\n\n");
 
-//Array Methods
+// Array Methods
 
 myArr.push("6th value")
 console.log(myArr);
