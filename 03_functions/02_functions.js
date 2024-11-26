@@ -22,3 +22,10 @@ function returnSecondValue(getarray){
 }
 console.log(returnSecondValue(myNewArray));
 returnSecondValue([700,800,900])
+
+
+
+const arrFunc = function(...arr) {
+    console.log(arr)
+}
+arrFunc(100 , 200 , 300 , 400)
