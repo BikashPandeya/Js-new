@@ -38,3 +38,5 @@ function LoginUserMessage(username){
 
 console.log(LoginUserMessage("Bikash"))
 console.log(LoginUserMessage())
+
+console.log(LoginUserMessage("Himal"));
